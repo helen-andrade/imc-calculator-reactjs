@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="src/assets/imc-1.png" alt="Imagem 1 do projeto">
-  <img src="src/assets/imc-1.png" alt="Imagem 2 do projeto">
+  <img src="src/assets/imc-2.png" alt="Imagem 2 do projeto">
 </p>
 
 <p align="center">
